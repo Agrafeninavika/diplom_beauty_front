@@ -1,0 +1,18 @@
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  height: inherit;
+  flex: 1 1 auto;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #d1b495 !important;
+}
+
+.accordion-button {
+  background-color: #d1b495 !important;
+}

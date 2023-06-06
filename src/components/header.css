@@ -1,0 +1,46 @@
+#logo {
+    width: 100px;
+    margin-top:auto
+}
+
+.navbar {
+    font-family: FreeMono, monospace;
+    letter-spacing: 3.5px;
+    background-color: #d1b495 !important;
+}   
+.nav-link{
+    color: #000;
+}
+.nav-link:hover{
+    color: #000;
+}
+.nav-link:active {
+    color: #000;
+}
+.nav-link.disabled {
+    color: rgba(0, 0, 0, 0.55) !important;
+    font-weight: bold;
+}
+
+
+.navbar-expand-sm .navbar-collapse {
+    margin-top:0px;
+}
+
+.d-flex {
+    margin-left:auto
+
+}
+
+.btn-outline-success {
+    color: #000000;
+    border-color: #000000;
+}
+.btn-outline-success:hover {
+    background-color: #d1b495;
+    border-color: #f1d6b9;
+}
+.container {
+    font-size: 28px;
+ 
+}
